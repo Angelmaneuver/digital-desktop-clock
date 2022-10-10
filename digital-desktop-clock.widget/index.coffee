@@ -41,6 +41,9 @@ style: (->
                      0 0 35px #0aafe6, 0 0 40px #0aafe6, 0 0 50px #0aafe6,  0 0 75px #0aafe6;
       }
     }
+    div& {
+      z-index:       99999999;
+    }
     span {
       font-family:   'D14CI', monospace;
       margin:        0;
@@ -56,8 +59,8 @@ style: (->
       border-radius: 0.5em;
       color:         #daf6ff;
 
-      top:           35em;
-      left:          6em;
+      top:           1em;
+      left:          1em;
       background:    rgba(#000000, 0);
     }
     .container {
