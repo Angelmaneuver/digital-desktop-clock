@@ -29,7 +29,7 @@ style: (->
   return """
     @font-face {
       font-family:   'D14CI';
-      src:           url('/digital-desktop-clock/digital-desktop-clock.widget/fonts-DSEG/DSEG14-Classic/DSEG14Classic-Italic.woff') format('woff');
+      src:           url('/digital-desktop-clock.widget/fonts-DSEG/DSEG14-Classic/DSEG14Classic-Italic.woff') format('woff');
     }
     @keyframes neon {
       from {
@@ -59,7 +59,7 @@ style: (->
       border-radius: 0.5em;
       color:         #daf6ff;
 
-      top:           1em;
+      bottom:        12.5em;
       left:          1em;
       background:    rgba(#000000, 0);
     }
