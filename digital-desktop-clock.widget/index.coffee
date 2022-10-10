@@ -59,7 +59,7 @@ style: (->
       border-radius: 0.5em;
       color:         #daf6ff;
 
-      bottom:        12.5em;
+      top:           1em;
       left:          1em;
       background:    rgba(#000000, 0);
     }
