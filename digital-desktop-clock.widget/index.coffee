@@ -88,7 +88,6 @@ style: (->
     #date,
     #day {
       font-size:     1.5em;
-      opacity:       0.7;
       margin:        5px;
     }
     #hours:before,
