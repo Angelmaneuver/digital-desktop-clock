@@ -54,7 +54,6 @@ style: (->
       position:      fixed;
       display:       inline-block;
       box-sizing:    border-box;
-      height:        70px;
       padding:       0.5em;
       border-radius: 0.5em;
       color:         #daf6ff;
